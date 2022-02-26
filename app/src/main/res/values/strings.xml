@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SAMPLE LINEAR LAYOUT</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsigin">Sig-In</string>
+</resources>
